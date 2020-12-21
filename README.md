@@ -4,7 +4,7 @@
 
 **Need:** Understanding the carbon footprint of the NHS includes, amongst other things, knowing the land usage of NHS sites and any opportunity for carbon offset through increasing green space.  This project seeks to demonstrate that using satellite images we can identify green space on NHS premises versus other terrain types.  
 
-**Current Knowledge/Examples & Possible Techniques/Approaches:** Terrain recognition from satellite images has been demonstrated widely and used crudely in the NHS in the past.  However, current implementations are inefficient and haven’t been applied to a large number of images but only small test areas.  Excellent article from the ONS data science campus - Green spaces in residential gardens
+**Current Knowledge/Examples & Possible Techniques/Approaches:** Terrain recognition from satellite images has been demonstrated widely and used crudely in the NHS in the past.  However, current implementations are inefficient and haven’t been applied to a large number of images but only small test areas.  Excellent article from the [ONS data science campus - Green spaces in residential gardens](https://datasciencecampus.ons.gov.uk/projects/green-spaces-in-residential-gardens/)
 
 **Related Previous Internship Projects:** Exploratory work on the data, analysis and intelligence service conducted by NHSEI.
 
